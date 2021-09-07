@@ -13,4 +13,5 @@
 
 
 ## Languages and Tools:
-
+<img height="32" width="32" src="https://www.docker.com/npm/simple-icons@v5/icons/docker.svg" />
+docker flask git heroku postgresql python scikit_learn sqlite tensorflow
