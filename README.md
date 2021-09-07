@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋, I'm Lee Rowe
+A passionate Data Scientist from Michigan
+🌱 I’m currently learning Data/Computer Science and Machine Learning
 
-<!--
-**leecrowe/leecrowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 All of my projects are available at this [link](https://github.com/leecrowe)
 
-Here are some ideas to get you started:
+📝 I write articles on [Medium](https://medium.com/@leerowe)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me through this [email](leerowe.business@gmail.com)
+
+⚡ You can also reach me on LinkedIn [here](https://www.linkedin.com/in/lee-rowe-59895620a)
+
+
+Languages and Tools:
+docker flask git heroku postgresql python scikit_learn sqlite tensorflow
