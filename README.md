@@ -13,4 +13,4 @@
 
 
 Languages and Tools:
-docker flask git heroku postgresql python scikit_learn sqlite tensorflow
+:docker: :flask: git heroku postgresql python scikit_learn sqlite tensorflow
