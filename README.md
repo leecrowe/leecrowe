@@ -1,5 +1,4 @@
 # Hi 👋, I'm Lee Rowe
-
 ## A passionate Data Scientist from Michigan
 
 🌱 I’m currently studying Data/Computer Science and Machine Learning
