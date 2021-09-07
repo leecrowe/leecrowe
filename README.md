@@ -13,7 +13,3 @@
 
 
 ## Languages and Tools:
-<img height="32" width="32" src="https://www.docker.com/simple-icons@v5/icons/docker.svg" />
-<img height="32" width="32" src="https://www.docker.com/npm/simple-icons@v5/icons/Docker.svg" />
-<img height="32" width="32" src="https://flask.palletsprojects.com/en/2.0.x/npm/simple-icons@v5/icons/flask.svg" />
-docker flask git heroku postgresql python scikit_learn sqlite tensorflow
