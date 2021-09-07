@@ -5,7 +5,7 @@
 
 ### 👨‍💻 All of my projects are available at this [link](https://github.com/leecrowe)
 
-### ### 📝 I write articles on [Medium](https://medium.com/@leerowe)
+### 📝 I write articles on [Medium](https://medium.com/@leerowe)
 
 ### 📫 How to reach me through this [email](leerowe.business@gmail.com)
 
@@ -13,7 +13,4 @@
 
 
 ## Languages and Tools:
-<img height="32" width="32" src="https://www.docker.com/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
 
-:docker: :flask: git heroku postgresql python scikit_learn sqlite tensorflow
