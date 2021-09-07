@@ -1,6 +1,8 @@
 # Hi 👋, I'm Lee Rowe
+
 ## A passionate Data Scientist from Michigan
-🌱 I’m currently learning Data/Computer Science and Machine Learning
+
+🌱 I’m currently studying Data/Computer Science and Machine Learning
 
 👨‍💻 All of my projects are available at this [link](https://github.com/leecrowe)
 
