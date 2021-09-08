@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me through this [email](leerowe.business@gmail.com)
 
-### 🔗 You can also reach me on LinkedIn [here](https://www.linkedin.com/in/lee-rowe-59895620a)
+### 🔗 You can also reach me on [LinkedIn](https://www.linkedin.com/in/lee-rowe-59895620a)
 
 
 ## Languages and Tools:
