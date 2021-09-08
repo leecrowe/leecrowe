@@ -5,7 +5,7 @@
 
 ### 📝 I write articles on [Medium](https://medium.com/@leerowe)
 
-### 📫 How to reach me through this [email](leerowe.business@gmail.com)
+### 📫 How to reach me through this [email](mailto:leerowe.business@gmail.com)
 
 ### 🔗 You can also reach me on [LinkedIn](https://www.linkedin.com/in/lee-rowe-59895620a)
 
