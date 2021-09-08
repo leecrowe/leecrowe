@@ -8,7 +8,7 @@
 ### 📫 Reach me through [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leerowe.business@gmail.com)
 
 ### 🔗 You can also reach me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-&nbsp;
+
 
 
 
