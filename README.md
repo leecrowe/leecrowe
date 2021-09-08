@@ -3,16 +3,20 @@
 
 ### 🌱 I’m currently studying Data/Computer Science and Machine Learning
 
-### 📝 I write articles on [Medium](https://medium.com/@leerowe)
+### 📝 I write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) Medium](https://medium.com/@leerowe)
 
-### 📫 How to reach me through this [email](mailto:leerowe.business@gmail.com)
+### 📫 Reach me through [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) email](mailto:leerowe.business@gmail.com)
 
-### 🔗 You can also reach me on [LinkedIn](https://www.linkedin.com/in/lee-rowe-59895620a)
+### 🔗 You can also reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lee-rowe-59895620a)
+&nbsp;
+
+
 
 
 ## Technical Skills and Tools:
 
 ![Python](https://camo.githubusercontent.com/56b6b1767d652e1f9c08f70f8616e244565be01f23c0e6553636986ba9740e9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3245333434303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e)
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Pandas](https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
 ![NumPy](https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
