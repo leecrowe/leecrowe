@@ -3,11 +3,11 @@
 
 ### 🌱 I’m currently studying Data/Computer Science and Machine Learning
 
-### 📝 I write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) Medium](https://medium.com/@leerowe)
+### 📝 I write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leerowe)
 
-### 📫 Reach me through [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) email](mailto:leerowe.business@gmail.com)
+### 📫 Reach me through [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leerowe.business@gmail.com)
 
-### 🔗 You can also reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lee-rowe-59895620a)
+### 🔗 You can also reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lee-rowe-59895620a)
 &nbsp;
 
 
