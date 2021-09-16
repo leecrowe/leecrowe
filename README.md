@@ -1,4 +1,5 @@
-# Hi 👋, I'm Lee Rowe
+# Hi 👋, I'm [!Lee Rowe](https://leecrowe.github.io/portfolio/)
+
 ## A passionate Data Scientist from Michigan
 
 ### 🌱 I’m currently studying Data/Computer Science and Machine Learning
