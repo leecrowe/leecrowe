@@ -1,4 +1,4 @@
-# Hi 👋, I'm [!Lee Rowe](https://leecrowe.github.io/portfolio/)
+# Hi 👋, I'm [Lee Rowe](https://leecrowe.github.io/portfolio/)
 
 ## A passionate Data Scientist from Michigan
 
