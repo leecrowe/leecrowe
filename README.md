@@ -2,7 +2,7 @@
 
 ## A passionate Data Scientist from Michigan
 
-### 🌱 I’m currently studying Data/Computer Science and Machine Learning
+### 🌱 I just finished studying Data/Computer Science and Machine Learning
 
 ### 📝 I write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leerowe)
 
