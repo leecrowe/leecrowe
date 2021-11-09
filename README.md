@@ -10,7 +10,7 @@
 
 ### 🔗 You can also reach me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-rowe-59895620a/)
 
-### 📁 Follow this link to my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leecrowe.github.io/portfolio/)
+### 📁 Follow this link to get to my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leecrowe.github.io/portfolio/)
 
 ### 📲 Check out my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
