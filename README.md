@@ -12,6 +12,10 @@
 
 ### 📁 A link to my portfolio can be found [here](https://leecrowe.github.io/portfolio/)
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leecrowe&layout=compact)
 
 
