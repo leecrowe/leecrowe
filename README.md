@@ -21,6 +21,8 @@
 - [Drawing to Generate Fake Data in Jupyter Notebook](https://medium.com/analytics-vidhya/drawing-to-generate-fake-data-98a1acc46b48?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leecrowe&layout=compact)
 
 
