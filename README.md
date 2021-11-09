@@ -10,8 +10,6 @@
 
 ### 🔗 You can also reach me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-rowe-59895620a/)
 
-### 📁 A link to my portfolio can be found [here](https://leecrowe.github.io/portfolio/)
-
 ### 📲 Check out my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Regression Metrics Calculations Made Easy](https://leerowe.medium.com/regression-metrics-calculations-made-easy-8039428764b4?source=rss-408222bfa499------2)
@@ -22,6 +20,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+
+### 📁 A link to my portfolio can be found [here](https://leecrowe.github.io/portfolio/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leecrowe&layout=compact)
 
