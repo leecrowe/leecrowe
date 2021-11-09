@@ -8,9 +8,9 @@
 
 ### 📫 Reach me through [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leerowe.business@gmail.com)
 
-### 📁 My portfolio can be found [here](https://leecrowe.github.io/portfolio/)
-
 ### 🔗 You can also reach me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-rowe-59895620a/)
+
+### 📁 Find my portfolio link [here](https://leecrowe.github.io/portfolio/)
 
 ### 📲 Check out my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
