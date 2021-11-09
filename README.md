@@ -12,7 +12,7 @@
 
 ### 📁 A link to my portfolio can be found [here](https://leecrowe.github.io/portfolio/)
 
-### 📕 Check out my latest blog posts
+### 📲 Check out my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Regression Metrics Calculations Made Easy](https://leerowe.medium.com/regression-metrics-calculations-made-easy-8039428764b4?source=rss-408222bfa499------2)
 - [How to Simultaneously Use Bluetooth and Wired Headphones](https://leerowe.medium.com/how-to-simultaneously-use-bluetooth-and-wired-headphones-59c32c943840?source=rss-408222bfa499------2)
