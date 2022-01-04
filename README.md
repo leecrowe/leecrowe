@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sun Shield Fully Deployed: NASA’s James Webb Space Telescope](https://leerowe.medium.com/sun-shield-fully-deployed-nasas-james-webb-space-telescope-ff4fe76cb335?source=rss-408222bfa499------2)
 - [Regression Metrics Calculations Made Easy](https://medium.com/mlearning-ai/regression-metrics-calculations-made-easy-8039428764b4?source=rss-408222bfa499------2)
 - [How to Simultaneously Use Bluetooth and Wired Headphones](https://leerowe.medium.com/how-to-simultaneously-use-bluetooth-and-wired-headphones-59c32c943840?source=rss-408222bfa499------2)
 - [Human Rights First: Programming to Empower Asylum Case Lawyers](https://medium.com/nerd-for-tech/working-for-human-rights-first-to-combat-asylum-9646151b0796?source=rss-408222bfa499------2)
 - [The Better Print Function Alternative, IceCream](https://leerowe.medium.com/the-better-print-function-alternative-icecream-44648d44605e?source=rss-408222bfa499------2)
-- [Drawing to Generate Fake Data in Jupyter Notebook](https://medium.com/analytics-vidhya/drawing-to-generate-fake-data-98a1acc46b48?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
