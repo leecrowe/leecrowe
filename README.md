@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography Using Python Hashing](https://leerowe.medium.com/cryptography-using-python-hashing-3fb2854b363c?source=rss-408222bfa499------2)
+- [SQLite: Lightweight Disk-Based Database](https://leerowe.medium.com/sqlite-lightweight-disk-based-database-e01626bfb7e9?source=rss-408222bfa499------2)
 - [Translating Languages Using Python](https://leerowe.medium.com/translating-languages-using-python-2c2e39b51d86?source=rss-408222bfa499------2)
 - [JoyPy: One-Function Ridgeline Plot Package](https://medium.com/geekculture/joypy-one-function-ridgeline-plot-package-bd46a2bb16ef?source=rss-408222bfa499------2)
 - [Sun Shield Fully Deployed: NASA’s James Webb Space Telescope](https://leerowe.medium.com/sun-shield-fully-deployed-nasas-james-webb-space-telescope-ff4fe76cb335?source=rss-408222bfa499------2)
-- [Regression Metrics Calculations Made Easy](https://medium.com/mlearning-ai/regression-metrics-calculations-made-easy-8039428764b4?source=rss-408222bfa499------2)
-- [How to Simultaneously Use Bluetooth and Wired Headphones](https://leerowe.medium.com/how-to-simultaneously-use-bluetooth-and-wired-headphones-59c32c943840?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
