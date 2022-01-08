@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Print Data Prettily: Python’s pprint](https://leerowe.medium.com/print-data-prettily-pythons-pprint-7bc06b4f6679?source=rss-408222bfa499------2)
+- [Memory Management in Python: Garbage Collector](https://leerowe.medium.com/memory-management-in-python-garbage-collector-47c8df36e602?source=rss-408222bfa499------2)
 - [Python’s Pickle: Pickling Explained](https://leerowe.medium.com/pickling-explained-pythons-pickle-11ec758d2b3?source=rss-408222bfa499------2)
 - [Python’s Secret Module: Secrets](https://leerowe.medium.com/pythons-secret-module-secrets-8c52f5f89ba?source=rss-408222bfa499------2)
 - [Cryptography Using Python Hashing](https://leerowe.medium.com/cryptography-using-python-hashing-3fb2854b363c?source=rss-408222bfa499------2)
-- [SQLite: Lightweight Disk-Based Database](https://leerowe.medium.com/sqlite-lightweight-disk-based-database-e01626bfb7e9?source=rss-408222bfa499------2)
-- [Translating Languages Using Python](https://leerowe.medium.com/translating-languages-using-python-2c2e39b51d86?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
