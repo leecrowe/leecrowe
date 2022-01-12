@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Google Search in Your Python Code](https://leerowe.medium.com/google-searches-in-your-python-code-135372f883f2?source=rss-408222bfa499------2)
 - [Print Data Prettily: Python’s pprint](https://leerowe.medium.com/print-data-prettily-pythons-pprint-7bc06b4f6679?source=rss-408222bfa499------2)
 - [Memory Management in Python: Garbage Collector](https://leerowe.medium.com/memory-management-in-python-garbage-collector-47c8df36e602?source=rss-408222bfa499------2)
 - [Python’s Pickle: Pickling Explained](https://leerowe.medium.com/pickling-explained-pythons-pickle-11ec758d2b3?source=rss-408222bfa499------2)
 - [Python’s Secret Module: Secrets](https://leerowe.medium.com/pythons-secret-module-secrets-8c52f5f89ba?source=rss-408222bfa499------2)
-- [Cryptography Using Python Hashing](https://leerowe.medium.com/cryptography-using-python-hashing-3fb2854b363c?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
