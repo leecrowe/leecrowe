@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Powerful Python Function To Know: divmod&lpar;&rpar;](https://lee-rowe.medium.com/a-powerful-python-function-to-know-divmod-581a44be5e9f?source=rss-408222bfa499------2)
 - [How to Incorporate Google Search in Your Python Code](https://python.plainenglish.io/google-searches-in-your-python-code-135372f883f2?source=rss-408222bfa499------2)
 - [Print Data Prettily: Python’s pprint](https://lee-rowe.medium.com/print-data-prettily-pythons-pprint-7bc06b4f6679?source=rss-408222bfa499------2)
 - [Memory Management in Python: Garbage Collector](https://lee-rowe.medium.com/memory-management-in-python-garbage-collector-47c8df36e602?source=rss-408222bfa499------2)
 - [Python’s Pickle: Pickling Explained](https://lee-rowe.medium.com/pickling-explained-pythons-pickle-11ec758d2b3?source=rss-408222bfa499------2)
-- [Python’s Secret Module: Secrets](https://lee-rowe.medium.com/pythons-secret-module-secrets-8c52f5f89ba?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
