@@ -17,9 +17,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Five More Useful Tips and Tricks You Will Want to Know When Using Python](https://medium.com/codex/five-more-useful-tips-and-tricks-you-will-want-to-know-when-using-python-a1a36db6abd8?source=rss-408222bfa499------2)
 - [Five Useful Tips and Tricks You Will Want to Know When Using Python](https://python.plainenglish.io/five-useful-tips-and-tricks-you-will-want-to-know-when-using-python-a81d964e345f?source=rss-408222bfa499------2)
-- [Ten of The Best Short and Simple Lines of Python — part 3](https://lee-rowe.medium.com/ten-of-the-best-short-and-simple-lines-of-python-part-3-f10f7b04a2e8?source=rss-408222bfa499------2)
-- [Ten of The Best Short and Simple Lines of Python — part 2](https://lee-rowe.medium.com/ten-python-one-liners-that-are-worth-knowing-e1c2b28f8083?source=rss-408222bfa499------2)
-- [A Powerful Python Function To Know: divmod&lpar;&rpar;](https://lee-rowe.medium.com/a-powerful-python-function-to-know-divmod-581a44be5e9f?source=rss-408222bfa499------2)
+- [Ten of The Best Short and Simple Lines of Python — part 3](https://medium.com/geekculture/ten-of-the-best-short-and-simple-lines-of-python-part-3-f10f7b04a2e8?source=rss-408222bfa499------2)
+- [Ten of The Best Short and Simple Lines of Python — part 2](https://medium.com/analytics-vidhya/ten-python-one-liners-that-are-worth-knowing-e1c2b28f8083?source=rss-408222bfa499------2)
+- [A Powerful Python Function To Know: divmod&lpar;&rpar;](https://medium.com/mlearning-ai/a-powerful-python-function-to-know-divmod-581a44be5e9f?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
