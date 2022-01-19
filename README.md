@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Useful Tips and Tricks You Will Want to Know When Using Python](https://lee-rowe.medium.com/five-useful-tips-and-tricks-you-will-want-to-know-when-using-python-a81d964e345f?source=rss-408222bfa499------2)
 - [Ten of The Best Short and Simple Lines of Python — part 3](https://lee-rowe.medium.com/ten-of-the-best-short-and-simple-lines-of-python-part-3-f10f7b04a2e8?source=rss-408222bfa499------2)
 - [Ten of The Best Short and Simple Lines of Python — part 2](https://lee-rowe.medium.com/ten-python-one-liners-that-are-worth-knowing-e1c2b28f8083?source=rss-408222bfa499------2)
 - [A Powerful Python Function To Know: divmod&lpar;&rpar;](https://lee-rowe.medium.com/a-powerful-python-function-to-know-divmod-581a44be5e9f?source=rss-408222bfa499------2)
 - [How to Incorporate Google Search in Your Python Code](https://python.plainenglish.io/google-searches-in-your-python-code-135372f883f2?source=rss-408222bfa499------2)
-- [Print Data Prettily: Python’s pprint](https://lee-rowe.medium.com/print-data-prettily-pythons-pprint-7bc06b4f6679?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
