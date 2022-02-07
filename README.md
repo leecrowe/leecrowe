@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leecrowe&layout=compact)
 
-<img src=https://komarev.com/ghpvc/?username = leecrowe/>
+![Views](https://komarev.com/ghpvc/?username=leecrowe&color=blue)
 
 ## Technical Skills and Tools:
 
