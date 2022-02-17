@@ -15,10 +15,10 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Tools Pandas Provides For EDA](https://lee-rowe.medium.com/the-tools-pandas-provides-for-eda-fe2cf33b3ae4?source=rss-408222bfa499------2)
+- [The Tools Pandas Provides For EDA](https://python.plainenglish.io/the-tools-pandas-provides-for-eda-fe2cf33b3ae4?source=rss-408222bfa499------2)
 - [NASA’s James Webb Space Telescope Sees Its First Star](https://lee-rowe.medium.com/nasas-james-webb-space-telescope-sees-its-first-star-36d2bcdec202?source=rss-408222bfa499------2)
-- [5 Useful Tips and Tricks You Will Want to Know When Using Python — part 5](https://lee-rowe.medium.com/5-useful-tips-and-tricks-you-will-want-to-know-when-using-python-part-5-3f9afaf1bad0?source=rss-408222bfa499------2)
-- [How to EasilManage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
+- [5 Useful Tips and Tricks You Will Want to Know When Using Python — part 5](https://medium.com/nerd-for-tech/5-useful-tips-and-tricks-you-will-want-to-know-when-using-python-part-5-3f9afaf1bad0?source=rss-408222bfa499------2)
+- [How to EasilManage/Install Webdrivers for Selenium](https://medium.com/geekculture/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
 - [Scraping Websites Using Python](https://medium.com/analytics-vidhya/scraping-websites-using-python-beautiful-soup-selenium-scrapy-82c7196b8490?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
