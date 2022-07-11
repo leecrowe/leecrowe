@@ -17,7 +17,7 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Four More Git Commands That You Should Know](https://lee-rowe.medium.com/four-more-git-commands-that-you-should-know-cabb84f555af?source=rss-408222bfa499------2)
+- [Four More Git Commands That You Should Know](https://towardsdev.com/four-more-git-commands-that-you-should-know-cabb84f555af?source=rss-408222bfa499------2)
 - [Numbers and Natural Language Processing: Numerizer](https://medium.com/mlearning-ai/numbers-and-natural-language-processing-numerizer-d6598e6815d5?source=rss-408222bfa499------2)
 - [Are Art and AI Changed Forever? DALL·E 2](https://medium.com/mlearning-ai/are-art-and-ai-changing-forever-dall-e-2-52ee68dcc287?source=rss-408222bfa499------2)
 - [Four Git Commands That You Should Know](https://lee-rowe.medium.com/four-git-commands-that-you-should-know-c7b59a483d22?source=rss-408222bfa499------2)
