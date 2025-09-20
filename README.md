@@ -29,7 +29,7 @@
 
 ## Technical Skills and Tools:
 
-![Python](https://camo.githubusercontent.com/56b6b1767d652e1f9c08f70f8616e244565be01f23c0e6553636986ba9740e9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3245333434303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
